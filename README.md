@@ -489,7 +489,9 @@ exit()
 
 ---
 
-## Bonus Task (Windows/Linux only — *MacOS excluded, it's too easy =D*)
+## Possibly (!!) Bonus Task for your project (Windows/Linux only — *MacOS excluded, it's too easy =D*)
+
+> ⚠️ **Important:** Only one person from your team is enough to set up the gpu environment.
 
 1. In your working environment, download the `command_remote_evaluation.py` from GitHub.
 2. Execute:
