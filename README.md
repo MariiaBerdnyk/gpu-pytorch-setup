@@ -35,7 +35,7 @@ If you have **Mac-provided** or **AMD** video cards — in most cases, **you are
 **Advice:**
 Use **Google Colab** with **TPU** for learning or **rent GPU/TPU resources online** (e.g., AWS, Paperspace, or NVIDIA GPU Cloud).
 
-If you want to perform **model/agent learning or tuning**, you **MUST** have a machine with an **NVIDIA GPU** and the latest **Ubuntu** versions or **Windows 11** (ideally both — dual boot).
+In general for your personal carrier - If you want to perform **model/agent learning or tuning**, you **MUST** have a machine with an **NVIDIA GPU** and the latest **Ubuntu** versions or **Windows 11** (ideally both — dual boot).
 
 ---
 
